@@ -15,5 +15,3 @@ u= The Minecraft nickname, works with the Minecraft Bedrock Edition nickname wit
 s= The size of your rendering per pixel
 
 I hope you like this API, feel free to improve it.
-
-Translated with www.DeepL.com/Translator (free version)
